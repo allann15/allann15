@@ -7,12 +7,15 @@ Sou universitario de ciência da computação e estou indo para o 6° Período. 
 <li>🚀Estou Atualmente Realizando o curso Next do Cesar e o curso TQI pela plataforma Digital Innovation Online</li>
 
 <li>🏆Tenho certificados em Machine Learning, Python, HTML5, Java, JavaScript, CSS3 e Metodologias Ageis</li>
+  <li> Contatos:
+     allanarruda19@gmail.com
+     ,(81)988361668   
+        </li>
 </ul>
 
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-jorge-arruda-85166018a/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#inbox)
 
 ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allann15&show_icons=true&theme=dracula)
 
