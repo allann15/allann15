@@ -9,7 +9,7 @@ Sou universitario de ciência da computação e estou indo para o 6° Período. 
 <li>🏆Tenho certificados em Machine Learning, Python, HTML5, Java, JavaScript, CSS3 e Metodologias Ageis</li>
   <li> Contatos:
      allanarruda19@gmail.com
-     ,(81)988361668   
+     , (81)988361668
         </li>
 </ul>
 
