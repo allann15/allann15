@@ -1,12 +1,12 @@
 ### Ola Eu sou o  Allan Jorge 🖐️
 
-Sou universitario de ciência da computação e estou indo para o 6° Período. 👨‍🎓
+Sou universitário de ciência da computação na  UNIFG estou indo para o 8° Período.  👨‍🎓
 
 <div>
 <ul>
-<li>🚀Estou Atualmente Realizando o curso Next do Cesar e o curso TQI pela plataforma Digital Innovation Online</li>
+<li>🚀Estou Atualmente Realizando Estágio como Analista de Dados no SENAI e continuo estudando e focado.</li>
 
-<li>🏆Tenho certificados em Machine Learning, Python, HTML5, Java, JavaScript, CSS3 e Metodologias Ageis</li>
+<li>🏆Tenho certificados em Machine Learning, Python, HTML5, Java, JavaScript, Angular, React, HTML5, CSS3 e Metodologias Ageis</li>
   <li> Contatos:
      allanarruda19@gmail.com
      , (81)988361668
